@@ -1,0 +1,112 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*HEADER*/
+.Header{
+    display: flex;
+}
+.Logo{
+    padding-left: 15px;
+}
+.Heading{
+    display: flex;
+    font-size:  50px;
+    font-weight: 500;
+    margin-left: 240px;
+    color: gray;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.blod{
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 50px;
+    color: rgb(10,141,248);
+}
+table{
+    width: 100%;
+}
+
+
+/* .Header img{
+
+    float: left;
+} */
+/*MAIN*/
+.main{
+    background-color: rgb(202,231,235);
+    border-radius: 9px;
+}
+
+.main img{
+
+    float: right;
+}
+.Kids{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 40px;
+    font-weight: 500;
+
+}
+.Check-Up{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Content{
+    margin-left: 15px;
+}
+.question{
+    font-size: 29px;
+    font-weight: 500;
+}
+.Contact{
+    font-weight: 550;
+    font-size: 30px;
+}
+.Space{
+    margin-left:15px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
